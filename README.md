@@ -1,7 +1,8 @@
 # 💰 Personal Finance Visualizer - Full Stack Application
-
+---
 A modern, responsive full-stack React application for tracking personal income and expenses with beautiful visualizations, real-time charts, and MongoDB database integration. Built with React frontend and Node.js/Express backend.
-
+---
+---
 ## 🚀 Features
 
 ### ✅ Core Functionality
@@ -43,7 +44,8 @@ A modern, responsive full-stack React application for tracking personal income a
 ### Development
 - **ESLint 9.29.0** - Code linting and formatting
 - **Nodemon** - Development server with auto-restart
-
+---
+---
 ## 📦 Installation & Setup
 
 ### Prerequisites
